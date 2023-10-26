@@ -32,84 +32,15 @@ To get descriptions and settings for this datapack use:
 
 /function timber:help
 
-If you don't have access to commands in your singleplayer world:
-Pause the game
-Click on Open to LAN
-In the options, change Allow Cheats: OFF to ON
-Click on Start LAN World
-
-
 Every player can individually turn the datapack ON or OFF by using:
 
 /trigger TimberToggle
 
-help
-settings1settings2
+![image](https://github.com/EntityBossBlood/Timber/assets/148834782/5b0cc643-3472-454c-95b1-cc4813e84281)
 
-Advanced Manual
-Click to reveal
+![image](https://github.com/EntityBossBlood/Timber/assets/148834782/060bfdb1-790e-4849-9eca-e4294da389f6)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/EntityBossBlood/Timber/assets/148834782/ce3dda73-92f7-4b87-b928-ac2ddc9e9f22)
 
 Installation instructions
 - Download the Datapack
@@ -125,20 +56,27 @@ Installation instructions
 
 Note: It does not work in creative mode!
 Server Compatibility
-Status
-Server software	Notes
+---------------
 ✅
 Vanilla / Realm	
+---------------
 ✅
 Forge	
+---------------
 ✅
 Fabric	
+---------------
 🆗
 CraftBukkit	-Huge mushrooms don't always drop loot
 -Whole stack of saplings that got auto-planted get deleted rather than only one
+---------------
 🆗
 Spigot	-Huge mushrooms don't always drop loot
 -Whole stack of saplings that got auto-planted get deleted rather than only one
+---------------
 🆗
 Paper	-Huge mushrooms don't always drop loot
 -Whole stack of saplings that got auto-planted get deleted rather than only one
+---------------
+
+![image](https://github.com/EntityBossBlood/Timber/assets/148834782/8848f426-8cc0-4355-8702-c91df9e6f7d1)
